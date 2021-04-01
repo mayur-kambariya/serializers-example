@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  friend_id: 1
+  user_id: 1
+  date: 2019-09-18 11:23:20
+  note: MyText
+  category: MyString
+
+two:
+  friend_id: 1
+  user_id: 1
+  date: 2019-09-18 11:23:20
+  note: MyText
+  category: MyString
